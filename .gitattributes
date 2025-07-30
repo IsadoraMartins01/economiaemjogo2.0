@@ -539,5 +539,4 @@
         updateUI();
     </script>
 </body>
-</html># Auto detect text files and perform LF normalization
-* text=auto
+</html>
